@@ -1,0 +1,471 @@
+season;date;league_id;league;team1;team2;proj_score1;proj_score2;score1;score2;tecnico;saiu;home
+2020;2020-08-08;2105;Brasileiro Série A;Fortaleza;Atlético Paranaense;1.18;1.35;0;2;ceni;0;1
+2020;2020-08-08;2105;Brasileiro Série A;Coritiba;Internacional;1.24;1.6;0;1;barroca;0;1
+2020;2020-08-08;2105;Brasileiro Série A;Sport Recife;Ceará;1.3;1.33;3;2;daniel paulista;0;1
+2020;2020-08-09;2105;Brasileiro Série A;Santos;Bragantino;1.89;0.93;1;1;cuca;0;1
+2020;2020-08-09;2105;Brasileiro Série A;Flamengo;Atletico Mineiro;2.36;0.84;0;1;domenec;0;1
+2020;2020-08-09;2105;Brasileiro Série A;Grêmio;Fluminense;1.9;0.94;1;0;renato;0;1
+2020;2020-08-12;2105;Brasileiro Série A;Atlético Paranaense;Goiás;1.71;0.96;2;1;dorival;0;1
+2020;2020-08-12;2105;Brasileiro Série A;Atletico Mineiro;Corinthians;1.32;1.24;3;2;sampaoli;0;1
+2020;2020-08-12;2105;Brasileiro Série A;Bragantino;Botafogo;1.48;1.13;1;1;felipe com;0;1
+2020;2020-08-12;2105;Brasileiro Série A;Atlético Goianiense;Flamengo;0.88;2.45;3;0;mancini;0;1
+2020;2020-08-12;2105;Brasileiro Série A;Bahía;Coritiba;1.55;1.05;1;0;roger machado;0;1
+2020;2020-08-12;2105;Brasileiro Série A;Ceará;Grêmio;1.04;1.8;1;1;guto;0;1
+2020;2020-08-12;2105;Brasileiro Série A;Fluminense;Palmeiras;1.01;1.69;1;1;odair;0;1
+2020;2020-08-13;2105;Brasileiro Série A;São Paulo;Fortaleza;1.65;0.91;1;0;diniz;0;1
+2020;2020-08-13;2105;Brasileiro Série A;Internacional;Santos;1.29;1.24;2;0;coudet;0;1
+2020;2020-08-13;2105;Brasileiro Série A;Vasco da Gama;Sport Recife;1.71;1.12;2;0;ramon;0;1
+2020;2020-08-15;2105;Brasileiro Série A;Grêmio;Corinthians;1.79;0.95;0;0;renato;0;1
+2020;2020-08-15;2105;Brasileiro Série A;Coritiba;Flamengo;0.92;2.26;0;1;barroca;1;1
+2020;2020-08-15;2105;Brasileiro Série A;Palmeiras;Goiás;2.19;0.82;1;1;luxa;0;1
+2020;2020-08-16;2105;Brasileiro Série A;Atletico Mineiro;Ceará;1.58;1.1;2;0;sampaoli;0;1
+2020;2020-08-16;2105;Brasileiro Série A;Bahía;Bragantino;1.5;1.15;2;1;roger machado;0;1
+2020;2020-08-16;2105;Brasileiro Série A;Vasco da Gama;São Paulo;1.15;1.27;2;1;ramon;0;1
+2020;2020-08-16;2105;Brasileiro Série A;Fluminense;Internacional;1.17;1.33;2;1;odair;0;1
+2020;2020-08-16;2105;Brasileiro Série A;Atlético Goianiense;Sport Recife;1.53;1.29;1;1;mancini;0;1
+2020;2020-08-16;2105;Brasileiro Série A;Fortaleza;Botafogo;1.42;1.04;0;0;ceni;0;1
+2020;2020-08-16;2105;Brasileiro Série A;Santos;Atlético Paranaense;1.29;1.1;3;1;cuca;0;1
+2020;2020-08-19;2105;Brasileiro Série A;Flamengo;Grêmio;1.69;1.25;1;1;coudet;0;1
+2020;2020-08-19;2105;Brasileiro Série A;Bragantino;Fluminense;1.31;1.32;2;1;felipe com;0;1
+2020;2020-08-19;2105;Brasileiro Série A;Atlético Paranaense;Palmeiras;1.06;1.36;0;1;dorival;0;1
+2020;2020-08-19;2105;Brasileiro Série A;Internacional;Atlético Goianiense;1.8;0.92;3;0;coudet;0;1
+2020;2020-08-19;2105;Brasileiro Série A;Goiás;Fortaleza;1.45;1.26;1;3;ney franco;1;1
+2020;2020-08-19;2105;Brasileiro Série A;Corinthians;Coritiba;1.63;0.91;3;1;thiago nunes;0;1
+2020;2020-08-19;2105;Brasileiro Série A;Botafogo;Atletico Mineiro;1.11;1.41;2;1;autuori;0;1
+2020;2020-08-20;2105;Brasileiro Série A;Sport Recife;Santos;1.15;1.6;0;1;daniel paulista;0;1
+2020;2020-08-20;2105;Brasileiro Série A;São Paulo;Bahía;1.51;0.91;1;1;diniz;0;1
+2020;2020-08-20;2105;Brasileiro Série A;Ceará;Vasco da Gama;1.3;1.23;0;3;guto;0;1
+2020;2020-08-22;2105;Brasileiro Série A;Atlético Paranaense;Fluminense;1.34;0.95;0;1;dorival;0;1
+2020;2020-08-22;2105;Brasileiro Série A;Internacional;Atletico Mineiro;1.55;1.1;1;0;coudet;0;1
+2020;2020-08-22;2105;Brasileiro Série A;Goiás;Atlético Goianiense;1.54;1.25;2;0;glauber;0;1
+2020;2020-08-23;2105;Brasileiro Série A;Flamengo;Botafogo;2.36;0.56;1;1;domenec;0;1
+2020;2020-08-23;2105;Brasileiro Série A;Palmeiras;Santos;1.58;0.88;2;1;luxa;0;1
+2020;2020-08-23;2105;Brasileiro Série A;Bragantino;Coritiba;1.6;1.1;1;2;felipe com;0;1
+2020;2020-08-23;2105;Brasileiro Série A;Vasco da Gama;Grêmio;1.0;1.66;0;0;ramon;0;1
+2020;2020-08-23;2105;Brasileiro Série A;Sport Recife;São Paulo;1.07;1.48;0;1;daniel paulista;1;1
+2020;2020-08-23;2105;Brasileiro Série A;Ceará;Bahía;1.31;1.2;2;0;guto;0;1
+2020;2020-08-26;2105;Brasileiro Série A;São Paulo;Atlético Paranaense;1.23;0.91;1;0;diniz;0;1
+2020;2020-08-26;2105;Brasileiro Série A;Corinthians;Fortaleza;1.53;1.03;1;1;thiago nunes;0;1
+2020;2020-08-29;2105;Brasileiro Série A;Botafogo;Internacional;0.97;1.46;0;2;autuori;0;1
+2020;2020-08-29;2105;Brasileiro Série A;Fluminense;Vasco da Gama;1.3;1.04;2;1;odair;0;1
+2020;2020-08-29;2105;Brasileiro Série A;Bahía;Palmeiras;0.88;1.67;1;1;roger machado;0;1
+2020;2020-08-29;2105;Brasileiro Série A;Fortaleza;Bragantino;1.42;1.19;3;0;ceni;0;1
+2020;2020-08-30;2105;Brasileiro Série A;São Paulo;Corinthians;1.39;0.97;2;1;diniz;0;1
+2020;2020-08-30;2105;Brasileiro Série A;Coritiba;Sport Recife;1.32;1.2;1;0;jorginho;0;1
+2020;2020-08-30;2105;Brasileiro Série A;Santos;Flamengo;1.16;1.61;0;1;cuca;0;1
+2020;2020-08-30;2105;Brasileiro Série A;Atlético Goianiense;Ceará;1.24;1.25;0;2;mancini;0;1
+2020;2020-09-02;2105;Brasileiro Série A;Ceará;Fortaleza;1.28;1.08;1;0;guto;0;1
+2020;2020-09-02;2105;Brasileiro Série A;Fluminense;Atlético Goianiense;1.49;0.89;1;1;odair;0;1
+2020;2020-09-02;2105;Brasileiro Série A;Goiás;Corinthians;1.24;1.47;1;2;larghi;0;1
+2020;2020-09-02;2105;Brasileiro Série A;Bahía;Flamengo;0.93;1.89;3;5;roger machado;1;1
+2020;2020-09-02;2105;Brasileiro Série A;Botafogo;Coritiba;1.29;1.07;0;0;autuori;0;1
+2020;2020-09-02;2105;Brasileiro Série A;Atlético Paranaense;Bragantino;1.48;0.89;1;1;barros;0;1
+2020;2020-09-02;2105;Brasileiro Série A;Santos;Vasco da Gama;1.42;0.97;2;2;cuca;0;1
+2020;2020-09-02;2105;Brasileiro Série A;Palmeiras;Internacional;1.43;0.88;1;1;luxa;0;1
+2020;2020-09-03;2105;Brasileiro Série A;Grêmio;Sport Recife;2.01;0.66;1;2;renato;0;1
+2020;2020-09-03;2105;Brasileiro Série A;Atletico Mineiro;São Paulo;1.19;1.18;3;0;sampaoli;0;1
+2020;2020-09-05;2105;Brasileiro Série A;Flamengo;Fortaleza;2.11;0.72;2;1;domenec;0;1
+2020;2020-09-05;2105;Brasileiro Série A;Corinthians;Botafogo;1.53;0.87;2;2;thiago nunes;0;1
+2020;2020-09-05;2105;Brasileiro Série A;Ceará;Santos;1.13;1.26;0;1;guto;0;1
+2020;2020-09-06;2105;Brasileiro Série A;Bragantino;Palmeiras;0.93;1.65;1;2;barbieri;0;1
+2020;2020-09-06;2105;Brasileiro Série A;São Paulo;Fluminense;1.31;0.89;3;1;diniz;0;1
+2020;2020-09-06;2105;Brasileiro Série A;Internacional;Bahía;1.63;0.83;2;2;coudet;0;1
+2020;2020-09-06;2105;Brasileiro Série A;Vasco da Gama;Atlético Paranaense;1.14;1.04;1;0;ramon;0;1
+2020;2020-09-06;2105;Brasileiro Série A;Atlético Goianiense;Grêmio;0.9;1.77;1;1;mancini;0;1
+2020;2020-09-06;2105;Brasileiro Série A;Coritiba;Atletico Mineiro;1.08;1.45;0;1;jorginho;0;1
+2020;2020-09-06;2105;Brasileiro Série A;Sport Recife;Goiás;1.46;1.25;2;1;jair;0;1
+2020;2020-09-09;2105;Brasileiro Série A;Atlético Paranaense;Botafogo;1.45;0.68;1;1;barros;0;1
+2020;2020-09-09;2105;Brasileiro Série A;Goiás;Coritiba;1.48;1.06;3;3;larghi;0;1
+2020;2020-09-09;2105;Brasileiro Série A;Fortaleza;Sport Recife;1.46;0.91;1;0;ceni;0;1
+2020;2020-09-09;2105;Brasileiro Série A;São Paulo;Bragantino;1.61;0.83;1;1;diniz;0;1
+2020;2020-09-09;2105;Brasileiro Série A;Fluminense;Flamengo;1.03;1.8;1;2;odair;0;1
+2020;2020-09-09;2105;Brasileiro Série A;Santos;Atletico Mineiro;1.44;1.1;3;1;cuca;0;1
+2020;2020-09-10;2105;Brasileiro Série A;Bahía;Grêmio;1.15;1.56;0;2;claudio;0;1
+2020;2020-09-10;2105;Brasileiro Série A;Internacional;Ceará;1.55;0.71;2;0;coudet;0;1
+2020;2020-09-10;2105;Brasileiro Série A;Corinthians;Palmeiras;1.06;1.41;0;2;thiago nunes;1;1
+2020;2020-09-10;2105;Brasileiro Série A;Vasco da Gama;Atlético Goianiense;1.51;0.84;1;2;ramon;0;1
+2020;2020-09-12;2105;Brasileiro Série A;Atlético Paranaense;Coritiba;1.54;0.71;1;0;barros;0;1
+2020;2020-09-12;2105;Brasileiro Série A;Santos;São Paulo;1.31;0.99;2;2;cuca;0;1
+2020;2020-09-13;2105;Brasileiro Série A;Fluminense;Corinthians;1.35;1.05;2;1;odair;0;1
+2020;2020-09-13;2105;Brasileiro Série A;Grêmio;Fortaleza;1.75;0.65;1;1;renato;0;1
+2020;2020-09-13;2105;Brasileiro Série A;Bahía;Atlético Goianiense;1.51;1.01;0;1;mano;0;1
+2020;2020-09-13;2105;Brasileiro Série A;Goiás;Internacional;1.13;1.61;1;0;larghi;0;1
+2020;2020-09-13;2105;Brasileiro Série A;Ceará;Flamengo;0.98;1.83;2;0;guto;0;1
+2020;2020-09-13;2105;Brasileiro Série A;Atletico Mineiro;Bragantino;1.71;1.0;2;1;sampaoli;0;1
+2020;2020-09-13;2105;Brasileiro Série A;Palmeiras;Sport Recife;2.01;0.49;2;2;luxa;0;1
+2020;2020-09-13;2105;Brasileiro Série A;Botafogo;Vasco da Gama;1.24;1.11;2;3;autuori;0;1
+2020;2020-09-16;2105;Brasileiro Série A;Corinthians;Bahía;1.54;1.0;3;2;coelho;0;1
+2020;2020-09-19;2105;Brasileiro Série A;Fortaleza;Internacional;1.0;1.19;1;0;ceni;0;1
+2020;2020-09-19;2105;Brasileiro Série A;Bragantino;Ceará;1.39;1.04;4;2;barbieri;0;1
+2020;2020-09-19;2105;Brasileiro Série A;Atlético Goianiense;Atletico Mineiro;1.18;1.31;3;4;mancini;0;1
+2020;2020-09-20;2105;Brasileiro Série A;Grêmio;Palmeiras;1.39;1.04;1;1;renato;0;1
+2020;2020-09-20;2105;Brasileiro Série A;Coritiba;Vasco da Gama;1.24;1.18;1;0;jorginho;0;1
+2020;2020-09-20;2105;Brasileiro Série A;Botafogo;Santos;1.24;1.32;0;0;autuori;0;1
+2020;2020-09-20;2105;Brasileiro Série A;Sport Recife;Fluminense;1.27;1.13;1;0;jair;0;1
+2020;2020-09-23;2105;Brasileiro Série A;Sport Recife;Corinthians;1.37;1.24;1;0;jair;0;1
+2020;2020-09-26;2105;Brasileiro Série A;Atlético Paranaense;Bahía;1.42;0.85;1;0;barros;0;1
+2020;2020-09-26;2105;Brasileiro Série A;Internacional;São Paulo;1.33;0.83;1;1;coudet;0;1
+2020;2020-09-26;2105;Brasileiro Série A;Atletico Mineiro;Grêmio;1.32;1.38;3;1;sampaoli;0;1
+2020;2020-09-27;2105;Brasileiro Série A;Vasco da Gama;Bragantino;1.51;1.14;1;1;ramon;0;1
+2020;2020-09-27;2105;Brasileiro Série A;Palmeiras;Flamengo;1.39;1.27;1;1;luxa;0;1
+2020;2020-09-27;2105;Brasileiro Série A;Ceará;Goiás;1.62;1.0;2;2;guto;0;1
+2020;2020-09-27;2105;Brasileiro Série A;Atlético Goianiense;Botafogo;1.42;1.02;1;1;mancini;0;1
+2020;2020-09-27;2105;Brasileiro Série A;Santos;Fortaleza;1.42;0.8;1;1;cuca;0;1
+2020;2020-09-28;2105;Brasileiro Série A;Fluminense;Coritiba;1.44;0.78;4;0;odair;0;1
+2020;2020-09-30;2105;Brasileiro Série A;Botafogo;Bahía;1.34;1.18;1;2;autuori;0;1
+2020;2020-09-30;2105;Brasileiro Série A;Corinthians;Atlético Goianiense;1.58;0.97;0;0;coelho;0;1
+2020;2020-10-03;2105;Brasileiro Série A;Grêmio;Internacional;1.46;0.87;1;1;renato;0;1
+2020;2020-10-03;2105;Brasileiro Série A;Palmeiras;Ceará;1.82;0.59;2;1;luxa;0;1
+2020;2020-10-03;2105;Brasileiro Série A;Bragantino;Corinthians;1.51;1.17;0;0;barbieri;0;1
+2020;2020-10-04;2105;Brasileiro Série A;Botafogo;Fluminense;1.24;1.15;1;1;lazarone;0;1
+2020;2020-10-04;2105;Brasileiro Série A;Coritiba;São Paulo;0.99;1.29;1;1;jorginho;0;1
+2020;2020-10-04;2105;Brasileiro Série A;Flamengo;Atlético Paranaense;1.89;0.58;3;1;domenec;0;1
+2020;2020-10-04;2105;Brasileiro Série A;Bahía;Sport Recife;1.56;0.99;1;2;mano;0;1
+2020;2020-10-04;2105;Brasileiro Série A;Goiás;Santos;1.27;1.44;2;3;moreira;0;1
+2020;2020-10-04;2105;Brasileiro Série A;Fortaleza;Atlético Goianiense;1.33;0.87;0;0;ceni;0;1
+2020;2020-10-04;2105;Brasileiro Série A;Atletico Mineiro;Vasco da Gama;1.77;0.95;4;1;sampaoli;0;1
+2020;2020-10-07;2105;Brasileiro Série A;Corinthians;Santos;1.28;1.11;1;1;coelho;1;1
+2020;2020-10-07;2105;Brasileiro Série A;Flamengo;Sport Recife;2.49;0.5;3;0;domenec;0;1
+2020;2020-10-07;2105;Brasileiro Série A;Grêmio;Coritiba;1.9;0.63;2;1;renato;0;1
+2020;2020-10-07;2105;Brasileiro Série A;Bahía;Vasco da Gama;1.57;1.07;3;0;mano;0;1
+2020;2020-10-07;2105;Brasileiro Série A;Goiás;Fluminense;1.32;1.33;2;4;moreira;0;1
+2020;2020-10-07;2105;Brasileiro Série A;São Paulo;Atlético Goianiense;1.58;0.68;3;0;diniz;0;1
+2020;2020-10-07;2105;Brasileiro Série A;Fortaleza;Atletico Mineiro;1.11;1.42;2;1;ceni;0;1
+2020;2020-10-07;2105;Brasileiro Série A;Botafogo;Palmeiras;1.0;1.51;2;1;lazarone;0;1
+2020;2020-10-08;2105;Brasileiro Série A;Atlético Paranaense;Ceará;1.37;0.82;0;0;barros;0;1
+2020;2020-10-08;2105;Brasileiro Série A;Bragantino;Internacional;1.16;1.21;0;2;barbieri;0;1
+2020;2020-10-10;2105;Brasileiro Série A;Vasco da Gama;Flamengo;0.98;2.01;1;2;graselli;0;1
+2020;2020-10-10;2105;Brasileiro Série A;Palmeiras;São Paulo;1.4;0.92;0;2;luxa;0;1
+2020;2020-10-10;2105;Brasileiro Série A;Coritiba;Fortaleza;1.11;0.98;0;0;jorginho;0;1
+2020;2020-10-10;2105;Brasileiro Série A;Atletico Mineiro;Goiás;2.31;0.96;3;0;sampaoli;0;1
+2020;2020-10-11;2105;Brasileiro Série A;Fluminense;Bahía;1.44;1.1;1;0;odair;0;1
+2020;2020-10-11;2105;Brasileiro Série A;Santos;Grêmio;1.26;1.2;2;1;cuca;0;1
+2020;2020-10-11;2105;Brasileiro Série A;Sport Recife;Botafogo;1.41;1.15;1;2;jair;0;1
+2020;2020-10-11;2105;Brasileiro Série A;Atlético Goianiense;Bragantino;1.35;1.15;2;1;bla;0;1
+2020;2020-10-11;2105;Brasileiro Série A;Ceará;Corinthians;1.29;0.99;2;1;guto;0;1
+2020;2020-10-11;2105;Brasileiro Série A;Internacional;Atlético Paranaense;1.28;0.62;2;1;coudet;0;1
+2020;2020-10-13;2105;Brasileiro Série A;Flamengo;Goiás;2.81;0.54;2;1;domenec;0;1
+2020;2020-10-14;2105;Brasileiro Série A;Palmeiras;Coritiba;1.77;0.61;1;3;luxa;1;1
+2020;2020-10-14;2105;Brasileiro Série A;Grêmio;Botafogo;1.81;0.84;3;1;renato;0;1
+2020;2020-10-14;2105;Brasileiro Série A;Santos;Atlético Goianiense;1.65;0.84;0;1;cuca;0;1
+2020;2020-10-14;2105;Brasileiro Série A;Atlético Paranaense;Corinthians;1.3;0.81;0;1;barros;0;1
+2020;2020-10-14;2105;Brasileiro Série A;Sport Recife;Internacional;1.04;1.34;3;5;jair;0;1
+2020;2020-10-14;2105;Brasileiro Série A;Atletico Mineiro;Fluminense;1.84;0.84;1;1;sampaoli;0;1
+2020;2020-10-15;2105;Brasileiro Série A;Flamengo;Bragantino;2.37;0.65;1;1;domenec;0;1
+2020;2020-10-16;2105;Brasileiro Série A;Goiás;Bahía;1.37;1.49;1;1;moreira;0;1
+2020;2020-10-17;2105;Brasileiro Série A;Coritiba;Santos;1.15;1.22;1;2;jorginho;0;1
+2020;2020-10-17;2105;Brasileiro Série A;Fluminense;Ceará;1.33;0.97;2;2;odair;0;1
+2020;2020-10-17;2105;Brasileiro Série A;Atlético Goianiense;Atlético Paranaense;1.1;1.03;1;1;bla;0;1
+2020;2020-10-17;2105;Brasileiro Série A;São Paulo;Grêmio;1.41;1.0;0;0;diniz;0;1
+2020;2020-10-18;2105;Brasileiro Série A;Corinthians;Flamengo;1.0;1.71;1;5;mancini;0;1
+2020;2020-10-18;2105;Brasileiro Série A;Internacional;Vasco da Gama;1.69;0.74;2;0;coudet;0;1
+2020;2020-10-18;2105;Brasileiro Série A;Bragantino;Sport Recife;1.63;1.06;2;0;barbieri;0;1
+2020;2020-10-18;2105;Brasileiro Série A;Fortaleza;Palmeiras;1.1;1.1;2;0;ceni;0;1
+2020;2020-10-19;2105;Brasileiro Série A;Bahía;Atletico Mineiro;1.29;1.54;3;1;mano;0;1
+2020;2020-10-19;2105;Brasileiro Série A;Botafogo;Goiás;1.76;1.07;0;0;lazarone;1;1
+2020;2020-10-21;2105;Brasileiro Série A;Vasco da Gama;Corinthians;1.29;1.09;1;2;sa pinto;0;1
+2020;2020-10-24;2105;Brasileiro Série A;Bragantino;Goiás;1.77;0.94;2;0;barbieri;0;1
+2020;2020-10-24;2105;Brasileiro Série A;Ceará;Coritiba;1.48;0.89;2;1;guto;0;1
+2020;2020-10-24;2105;Brasileiro Série A;Atletico Mineiro;Sport Recife;2.14;0.9;0;0;sampaoli;0;1
+2020;2020-10-25;2105;Brasileiro Série A;Fluminense;Santos;1.23;1.11;3;1;odair;0;1
+2020;2020-10-25;2105;Brasileiro Série A;Atlético Goianiense;Palmeiras;1.21;1.33;0;3;souza;0;1
+2020;2020-10-25;2105;Brasileiro Série A;Internacional;Flamengo;1.27;1.43;2;2;coudet;0;1
+2020;2020-10-25;2105;Brasileiro Série A;Atlético Paranaense;Grêmio;1.09;1.11;1;2;autuori;0;1
+2020;2020-10-31;2105;Brasileiro Série A;Botafogo;Ceará;1.39;1.09;2;2;tenius;0;1
+2020;2020-10-31;2105;Brasileiro Série A;Corinthians;Internacional;1.12;1.29;1;0;mancini;0;1
+2020;2020-10-31;2105;Brasileiro Série A;Coritiba;Atlético Goianiense;1.38;1.04;1;0;pacheco;0;1
+2020;2020-10-31;2105;Brasileiro Série A;Fortaleza;Fluminense;1.23;0.88;0;1;ceni;0;1
+2020;2020-11-01;2105;Brasileiro Série A;Flamengo;São Paulo;1.73;0.91;1;4;domenec;0;1
+2020;2020-11-01;2105;Brasileiro Série A;Sport Recife;Atlético Paranaense;1.09;1.13;1;0;jair;0;1
+2020;2020-11-01;2105;Brasileiro Série A;Santos;Bahía;1.48;1.04;3;1;cuca;0;1
+2020;2020-11-01;2105;Brasileiro Série A;Goiás;Vasco da Gama;1.36;1.31;1;1;moreira;0;1
+2020;2020-11-02;2105;Brasileiro Série A;Palmeiras;Atletico Mineiro;1.54;1.27;3;0;andrey;0;1
+2020;2020-11-02;2105;Brasileiro Série A;Grêmio;Bragantino;1.69;0.81;2;1;renato;0;1
+2020;2020-11-07;2105;Brasileiro Série A;Atlético Paranaense;Fortaleza;1.17;0.62;2;1;autuori;0;1
+2020;2020-11-07;2105;Brasileiro Série A;São Paulo;Goiás;2.02;0.62;2;1;diniz;0;1
+2020;2020-11-07;2105;Brasileiro Série A;Atlético Goianiense;Corinthians;1.27;1.04;1;1;souza;0;1
+2020;2020-11-08;2105;Brasileiro Série A;Internacional;Coritiba;1.67;0.67;2;2;coudet;0;1
+2020;2020-11-08;2105;Brasileiro Série A;Vasco da Gama;Palmeiras;1.14;1.52;0;1;sa pinto;0;1
+2020;2020-11-08;2105;Brasileiro Série A;Atletico Mineiro;Flamengo;1.48;1.82;4;0;sampaoli;0;1
+2020;2020-11-08;2105;Brasileiro Série A;Bahía;Botafogo;1.58;1.07;1;0;mano;0;1
+2020;2020-11-08;2105;Brasileiro Série A;Bragantino;Santos;1.35;1.12;1;1;barbieri;0;1
+2020;2020-11-08;2105;Brasileiro Série A;Fluminense;Grêmio;1.13;1.25;0;1;odair;0;1
+2020;2020-11-08;2105;Brasileiro Série A;Ceará;Sport Recife;1.57;0.96;0;0;guto;0;1
+2020;2020-11-14;2105;Brasileiro Série A;Santos;Internacional;1.22;1.14;2;0;cuca;0;1
+2020;2020-11-14;2105;Brasileiro Série A;Sport Recife;Vasco da Gama;1.34;1.09;0;2;jair;0;1
+2020;2020-11-14;2105;Brasileiro Série A;Goiás;Atlético Paranaense;1.08;1.29;0;1;moreira;1;1
+2020;2020-11-14;2105;Brasileiro Série A;Corinthians;Atletico Mineiro;1.2;1.47;1;2;mancini;0;1
+2020;2020-11-14;2105;Brasileiro Série A;Fortaleza;São Paulo;0.9;1.24;2;3;chamusca;0;1
+2020;2020-11-14;2105;Brasileiro Série A;Grêmio;Ceará;1.71;0.74;4;2;renato;0;1
+2020;2020-11-14;2105;Brasileiro Série A;Palmeiras;Fluminense;1.58;0.79;2;0;abel;0;1
+2020;2020-11-14;2105;Brasileiro Série A;Flamengo;Atlético Goianiense;2.38;0.61;1;1;ceni;0;1
+2020;2020-11-16;2105;Brasileiro Série A;Coritiba;Bahía;1.31;1.18;1;2;santana;0;1
+2020;2020-11-16;2105;Brasileiro Série A;Botafogo;Bragantino;1.36;1.08;1;2;diaz;0;1
+2020;2020-11-18;2105;Brasileiro Série A;Atletico Mineiro;Atlético Paranaense;1.67;0.8;0;2;sampaoli;0;1
+2020;2020-11-19;2105;Brasileiro Série A;Vasco da Gama;Fortaleza;1.26;1.0;0;0;sa pinto;0;1
+2020;2020-11-20;2105;Brasileiro Série A;Bragantino;Bahía;1.48;1.06;4;0;barbieri;0;1
+2020;2020-11-21;2105;Brasileiro Série A;Atlético Paranaense;Santos;1.26;0.85;1;0;autuori;0;1
+2020;2020-11-21;2105;Brasileiro Série A;Flamengo;Coritiba;2.42;0.6;3;1;ceni;0;1
+2020;2020-11-21;2105;Brasileiro Série A;Goiás;Palmeiras;1.03;1.7;1;0;cesar;0;1
+2020;2020-11-22;2105;Brasileiro Série A;Ceará;Atletico Mineiro;1.28;1.5;2;2;guto;0;1
+2020;2020-11-22;2105;Brasileiro Série A;São Paulo;Vasco da Gama;1.82;0.6;1;1;diniz;0;1
+2020;2020-11-22;2105;Brasileiro Série A;Botafogo;Fortaleza;1.28;1.0;1;2;diaz;0;1
+2020;2020-11-22;2105;Brasileiro Série A;Internacional;Fluminense;1.47;0.76;1;2;abelao;0;1
+2020;2020-11-22;2105;Brasileiro Série A;Corinthians;Grêmio;1.1;1.4;0;0;mancini;0;1
+2020;2020-11-23;2105;Brasileiro Série A;Sport Recife;Atlético Goianiense;1.26;1.08;0;1;jair;0;1
+2020;2020-11-25;2105;Brasileiro Série A;Ceará;São Paulo;1.06;1.4;1;1;guto;0;1
+2020;2020-11-25;2105;Brasileiro Série A;Coritiba;Corinthians;1.24;1.09;0;1;santana;0;1
+2020;2020-11-25;2105;Brasileiro Série A;Atletico Mineiro;Botafogo;1.95;0.93;2;1;sampaoli;0;1
+2020;2020-11-26;2105;Brasileiro Série A;Fortaleza;Goiás;1.53;0.81;1;1;chamusca;0;1
+2020;2020-11-28;2105;Brasileiro Série A;Santos;Sport Recife;1.6;0.8;4;2;cuca;0;1
+2020;2020-11-28;2105;Brasileiro Série A;Palmeiras;Atlético Paranaense;1.33;0.74;3;0;abel;0;1
+2020;2020-11-28;2105;Brasileiro Série A;Bahía;São Paulo;1.09;1.46;1;3;mano;0;1
+2020;2020-11-28;2105;Brasileiro Série A;Atlético Goianiense;Internacional;1.11;1.17;0;0;cabo;0;1
+2020;2020-11-30;2105;Brasileiro Série A;Grêmio;Goiás;2.04;0.66;2;1;renato;0;1
+2020;2020-11-30;2105;Brasileiro Série A;Vasco da Gama;Ceará;1.36;1.11;1;4;sa pinto;0;1
+2020;2020-11-30;2105;Brasileiro Série A;Fluminense;Bragantino;1.29;0.99;0;0;odair;0;1
+2020;2020-12-02;2105;Brasileiro Série A;Fortaleza;Corinthians;1.24;0.86;0;0;chamusca;0;1
+2020;2020-12-03;2105;Brasileiro Série A;Goiás;São Paulo;0.93;1.75;0;3;cesar;0;1
+2020;2020-12-05;2105;Brasileiro Série A;Santos;Palmeiras;1.16;1.31;2;2;cuca;0;1
+2020;2020-12-05;2105;Brasileiro Série A;Botafogo;Flamengo;1.12;2.07;0;1;lucena;0;1
+2020;2020-12-05;2105;Brasileiro Série A;Fluminense;Atlético Paranaense;1.11;0.83;3;1;odair;0;1
+2020;2020-12-05;2105;Brasileiro Série A;Bahía;Ceará;1.52;1.23;0;2;mano;0;1
+2020;2020-12-05;2105;Brasileiro Série A;Coritiba;Bragantino;1.16;1.21;0;0;santana;0;1
+2020;2020-12-06;2105;Brasileiro Série A;Grêmio;Vasco da Gama;1.88;0.71;4;0;renato;0;1
+2020;2020-12-06;2105;Brasileiro Série A;São Paulo;Sport Recife;2.08;0.53;1;0;diniz;0;1
+2020;2020-12-06;2105;Brasileiro Série A;Atletico Mineiro;Internacional;1.54;1.02;2;2;sampaoli;0;1
+2020;2020-08-08;2105;Brasileiro Série A;Fortaleza;Atlético Paranaense;1.18;1.35;0;2;dorival;0;0
+2020;2020-08-08;2105;Brasileiro Série A;Coritiba;Internacional;1.24;1.6;0;1;coudet;0;0
+2020;2020-08-08;2105;Brasileiro Série A;Sport Recife;Ceará;1.3;1.33;3;2;guto;0;0
+2020;2020-08-09;2105;Brasileiro Série A;Santos;Bragantino;1.89;0.93;1;1;felipe com;0;0
+2020;2020-08-09;2105;Brasileiro Série A;Flamengo;Atletico Mineiro;2.36;0.84;0;1;sampaoli;0;0
+2020;2020-08-09;2105;Brasileiro Série A;Grêmio;Fluminense;1.9;0.94;1;0;odair;0;0
+2020;2020-08-12;2105;Brasileiro Série A;Atlético Paranaense;Goiás;1.71;0.96;2;1;ney franco;0;0
+2020;2020-08-12;2105;Brasileiro Série A;Atletico Mineiro;Corinthians;1.32;1.24;3;2;thiago nunes;0;0
+2020;2020-08-12;2105;Brasileiro Série A;Bragantino;Botafogo;1.48;1.13;1;1;autuori;0;0
+2020;2020-08-12;2105;Brasileiro Série A;Atlético Goianiense;Flamengo;0.88;2.45;3;0;domenec;0;0
+2020;2020-08-12;2105;Brasileiro Série A;Bahía;Coritiba;1.55;1.05;1;0;barroca;0;0
+2020;2020-08-12;2105;Brasileiro Série A;Ceará;Grêmio;1.04;1.8;1;1;renato;0;0
+2020;2020-08-12;2105;Brasileiro Série A;Fluminense;Palmeiras;1.01;1.69;1;1;luxa;0;0
+2020;2020-08-13;2105;Brasileiro Série A;São Paulo;Fortaleza;1.65;0.91;1;0;ceni;0;0
+2020;2020-08-13;2105;Brasileiro Série A;Internacional;Santos;1.29;1.24;2;0;cuca;0;0
+2020;2020-08-13;2105;Brasileiro Série A;Vasco da Gama;Sport Recife;1.71;1.12;2;0;daniel paulista;0;0
+2020;2020-08-15;2105;Brasileiro Série A;Grêmio;Corinthians;1.79;0.95;0;0;thiago nunes;0;0
+2020;2020-08-15;2105;Brasileiro Série A;Coritiba;Flamengo;0.92;2.26;0;1;domenec;0;0
+2020;2020-08-15;2105;Brasileiro Série A;Palmeiras;Goiás;2.19;0.82;1;1;ney franco;0;0
+2020;2020-08-16;2105;Brasileiro Série A;Atletico Mineiro;Ceará;1.58;1.1;2;0;guto;0;0
+2020;2020-08-16;2105;Brasileiro Série A;Bahía;Bragantino;1.5;1.15;2;1;felipe com;0;0
+2020;2020-08-16;2105;Brasileiro Série A;Vasco da Gama;São Paulo;1.15;1.27;2;1;diniz;0;0
+2020;2020-08-16;2105;Brasileiro Série A;Fluminense;Internacional;1.17;1.33;2;1;coudet;0;0
+2020;2020-08-16;2105;Brasileiro Série A;Atlético Goianiense;Sport Recife;1.53;1.29;1;1;daniel paulista;0;0
+2020;2020-08-16;2105;Brasileiro Série A;Fortaleza;Botafogo;1.42;1.04;0;0;autuori;0;0
+2020;2020-08-16;2105;Brasileiro Série A;Santos;Atlético Paranaense;1.29;1.1;3;1;dorival;0;0
+2020;2020-08-19;2105;Brasileiro Série A;Flamengo;Grêmio;1.69;1.25;1;1;renato;0;0
+2020;2020-08-19;2105;Brasileiro Série A;Bragantino;Fluminense;1.31;1.32;2;1;odair;0;0
+2020;2020-08-19;2105;Brasileiro Série A;Atlético Paranaense;Palmeiras;1.06;1.36;0;1;luxa;0;0
+2020;2020-08-19;2105;Brasileiro Série A;Internacional;Atlético Goianiense;1.8;0.92;3;0;mancini;0;0
+2020;2020-08-19;2105;Brasileiro Série A;Goiás;Fortaleza;1.45;1.26;1;3;ceni;0;0
+2020;2020-08-19;2105;Brasileiro Série A;Corinthians;Coritiba;1.63;0.91;3;1;mozart;0;0
+2020;2020-08-19;2105;Brasileiro Série A;Botafogo;Atletico Mineiro;1.11;1.41;2;1;sampaoli;0;0
+2020;2020-08-20;2105;Brasileiro Série A;Sport Recife;Santos;1.15;1.6;0;1;cuca;0;0
+2020;2020-08-20;2105;Brasileiro Série A;São Paulo;Bahía;1.51;0.91;1;1;roger machado;0;0
+2020;2020-08-20;2105;Brasileiro Série A;Ceará;Vasco da Gama;1.3;1.23;0;3;ramon;0;0
+2020;2020-08-22;2105;Brasileiro Série A;Atlético Paranaense;Fluminense;1.34;0.95;0;1;odair;0;0
+2020;2020-08-22;2105;Brasileiro Série A;Internacional;Atletico Mineiro;1.55;1.1;1;0;sampaoli;0;0
+2020;2020-08-22;2105;Brasileiro Série A;Goiás;Atlético Goianiense;1.54;1.25;2;0;mancini;0;0
+2020;2020-08-23;2105;Brasileiro Série A;Flamengo;Botafogo;2.36;0.56;1;1;autuori;0;0
+2020;2020-08-23;2105;Brasileiro Série A;Palmeiras;Santos;1.58;0.88;2;1;cuca;0;0
+2020;2020-08-23;2105;Brasileiro Série A;Bragantino;Coritiba;1.6;1.1;1;2;mozart;0;0
+2020;2020-08-23;2105;Brasileiro Série A;Vasco da Gama;Grêmio;1.0;1.66;0;0;renato;0;0
+2020;2020-08-23;2105;Brasileiro Série A;Sport Recife;São Paulo;1.07;1.48;0;1;diniz;0;0
+2020;2020-08-23;2105;Brasileiro Série A;Ceará;Bahía;1.31;1.2;2;0;roger machado;0;0
+2020;2020-08-26;2105;Brasileiro Série A;São Paulo;Atlético Paranaense;1.23;0.91;1;0;dorival;1;0
+2020;2020-08-26;2105;Brasileiro Série A;Corinthians;Fortaleza;1.53;1.03;1;1;ceni;0;0
+2020;2020-08-29;2105;Brasileiro Série A;Botafogo;Internacional;0.97;1.46;0;2;coudet;0;0
+2020;2020-08-29;2105;Brasileiro Série A;Fluminense;Vasco da Gama;1.3;1.04;2;1;ramon;0;0
+2020;2020-08-29;2105;Brasileiro Série A;Bahía;Palmeiras;0.88;1.67;1;1;luxa;0;0
+2020;2020-08-29;2105;Brasileiro Série A;Fortaleza;Bragantino;1.42;1.19;3;0;felipe com;0;0
+2020;2020-08-30;2105;Brasileiro Série A;São Paulo;Corinthians;1.39;0.97;2;1;thiago nunes;0;0
+2020;2020-08-30;2105;Brasileiro Série A;Coritiba;Sport Recife;1.32;1.2;1;0;jair;0;0
+2020;2020-08-30;2105;Brasileiro Série A;Santos;Flamengo;1.16;1.61;0;1;domenec;0;0
+2020;2020-08-30;2105;Brasileiro Série A;Atlético Goianiense;Ceará;1.24;1.25;0;2;guto;0;0
+2020;2020-09-02;2105;Brasileiro Série A;Ceará;Fortaleza;1.28;1.08;1;0;ceni;0;0
+2020;2020-09-02;2105;Brasileiro Série A;Fluminense;Atlético Goianiense;1.49;0.89;1;1;mancini;0;0
+2020;2020-09-02;2105;Brasileiro Série A;Goiás;Corinthians;1.24;1.47;1;2;thiago nunes;0;0
+2020;2020-09-02;2105;Brasileiro Série A;Bahía;Flamengo;0.93;1.89;3;5;domenec;0;0
+2020;2020-09-02;2105;Brasileiro Série A;Botafogo;Coritiba;1.29;1.07;0;0;jorginho;0;0
+2020;2020-09-02;2105;Brasileiro Série A;Atlético Paranaense;Bragantino;1.48;0.89;1;1;barbieri;0;0
+2020;2020-09-02;2105;Brasileiro Série A;Santos;Vasco da Gama;1.42;0.97;2;2;ramon;0;0
+2020;2020-09-02;2105;Brasileiro Série A;Palmeiras;Internacional;1.43;0.88;1;1;coudet;0;0
+2020;2020-09-03;2105;Brasileiro Série A;Grêmio;Sport Recife;2.01;0.66;1;2;jair;0;0
+2020;2020-09-03;2105;Brasileiro Série A;Atletico Mineiro;São Paulo;1.19;1.18;3;0;diniz;0;0
+2020;2020-09-05;2105;Brasileiro Série A;Flamengo;Fortaleza;2.11;0.72;2;1;ceni;0;0
+2020;2020-09-05;2105;Brasileiro Série A;Corinthians;Botafogo;1.53;0.87;2;2;autuori;0;0
+2020;2020-09-05;2105;Brasileiro Série A;Ceará;Santos;1.13;1.26;0;1;cuca;0;0
+2020;2020-09-06;2105;Brasileiro Série A;Bragantino;Palmeiras;0.93;1.65;1;2;luxa;0;0
+2020;2020-09-06;2105;Brasileiro Série A;São Paulo;Fluminense;1.31;0.89;3;1;odair;0;0
+2020;2020-09-06;2105;Brasileiro Série A;Internacional;Bahía;1.63;0.83;2;2;claudio;0;0
+2020;2020-09-06;2105;Brasileiro Série A;Vasco da Gama;Atlético Paranaense;1.14;1.04;1;0;barros;0;0
+2020;2020-09-06;2105;Brasileiro Série A;Atlético Goianiense;Grêmio;0.9;1.77;1;1;renato;0;0
+2020;2020-09-06;2105;Brasileiro Série A;Coritiba;Atletico Mineiro;1.08;1.45;0;1;sampaoli;0;0
+2020;2020-09-06;2105;Brasileiro Série A;Sport Recife;Goiás;1.46;1.25;2;1;larghi;0;0
+2020;2020-09-09;2105;Brasileiro Série A;Atlético Paranaense;Botafogo;1.45;0.68;1;1;autuori;0;0
+2020;2020-09-09;2105;Brasileiro Série A;Goiás;Coritiba;1.48;1.06;3;3;jorginho;0;0
+2020;2020-09-09;2105;Brasileiro Série A;Fortaleza;Sport Recife;1.46;0.91;1;0;jair;0;0
+2020;2020-09-09;2105;Brasileiro Série A;São Paulo;Bragantino;1.61;0.83;1;1;barbieri;0;0
+2020;2020-09-09;2105;Brasileiro Série A;Fluminense;Flamengo;1.03;1.8;1;2;domenec;0;0
+2020;2020-09-09;2105;Brasileiro Série A;Santos;Atletico Mineiro;1.44;1.1;3;1;sampaoli;0;0
+2020;2020-09-10;2105;Brasileiro Série A;Bahía;Grêmio;1.15;1.56;0;2;renato;0;0
+2020;2020-09-10;2105;Brasileiro Série A;Internacional;Ceará;1.55;0.71;2;0;guto;0;0
+2020;2020-09-10;2105;Brasileiro Série A;Corinthians;Palmeiras;1.06;1.41;0;2;luxa;0;0
+2020;2020-09-10;2105;Brasileiro Série A;Vasco da Gama;Atlético Goianiense;1.51;0.84;1;2;mancini;0;0
+2020;2020-09-12;2105;Brasileiro Série A;Atlético Paranaense;Coritiba;1.54;0.71;1;0;jorginho;0;0
+2020;2020-09-12;2105;Brasileiro Série A;Santos;São Paulo;1.31;0.99;2;2;diniz;0;0
+2020;2020-09-13;2105;Brasileiro Série A;Fluminense;Corinthians;1.35;1.05;2;1;coelho;0;0
+2020;2020-09-13;2105;Brasileiro Série A;Grêmio;Fortaleza;1.75;0.65;1;1;ceni;0;0
+2020;2020-09-13;2105;Brasileiro Série A;Bahía;Atlético Goianiense;1.51;1.01;0;1;mancini;0;0
+2020;2020-09-13;2105;Brasileiro Série A;Goiás;Internacional;1.13;1.61;1;0;coudet;0;0
+2020;2020-09-13;2105;Brasileiro Série A;Ceará;Flamengo;0.98;1.83;2;0;domenec;0;0
+2020;2020-09-13;2105;Brasileiro Série A;Atletico Mineiro;Bragantino;1.71;1.0;2;1;barbieri;0;0
+2020;2020-09-13;2105;Brasileiro Série A;Palmeiras;Sport Recife;2.01;0.49;2;2;jair;0;0
+2020;2020-09-13;2105;Brasileiro Série A;Botafogo;Vasco da Gama;1.24;1.11;2;3;ramon;0;0
+2020;2020-09-16;2105;Brasileiro Série A;Corinthians;Bahía;1.54;1.0;3;2;mano;0;0
+2020;2020-09-19;2105;Brasileiro Série A;Fortaleza;Internacional;1.0;1.19;1;0;coudet;0;0
+2020;2020-09-19;2105;Brasileiro Série A;Bragantino;Ceará;1.39;1.04;4;2;guto;0;0
+2020;2020-09-19;2105;Brasileiro Série A;Atlético Goianiense;Atletico Mineiro;1.18;1.31;3;4;sampaoli;0;0
+2020;2020-09-20;2105;Brasileiro Série A;Grêmio;Palmeiras;1.39;1.04;1;1;luxa;0;0
+2020;2020-09-20;2105;Brasileiro Série A;Coritiba;Vasco da Gama;1.24;1.18;1;0;ramon;0;0
+2020;2020-09-20;2105;Brasileiro Série A;Botafogo;Santos;1.24;1.32;0;0;cuca;0;0
+2020;2020-09-20;2105;Brasileiro Série A;Sport Recife;Fluminense;1.27;1.13;1;0;odair;0;0
+2020;2020-09-23;2105;Brasileiro Série A;Sport Recife;Corinthians;1.37;1.24;1;0;coelho;0;0
+2020;2020-09-26;2105;Brasileiro Série A;Atlético Paranaense;Bahía;1.42;0.85;1;0;mano;0;0
+2020;2020-09-26;2105;Brasileiro Série A;Internacional;São Paulo;1.33;0.83;1;1;diniz;0;0
+2020;2020-09-26;2105;Brasileiro Série A;Atletico Mineiro;Grêmio;1.32;1.38;3;1;renato;0;0
+2020;2020-09-27;2105;Brasileiro Série A;Vasco da Gama;Bragantino;1.51;1.14;1;1;barbieri;0;0
+2020;2020-09-27;2105;Brasileiro Série A;Palmeiras;Flamengo;1.39;1.27;1;1;domenec;0;0
+2020;2020-09-27;2105;Brasileiro Série A;Ceará;Goiás;1.62;1.0;2;2;larghi;1;0
+2020;2020-09-27;2105;Brasileiro Série A;Atlético Goianiense;Botafogo;1.42;1.02;1;1;autuori;1;0
+2020;2020-09-27;2105;Brasileiro Série A;Santos;Fortaleza;1.42;0.8;1;1;ceni;0;0
+2020;2020-09-28;2105;Brasileiro Série A;Fluminense;Coritiba;1.44;0.78;4;0;jorginho;0;0
+2020;2020-09-30;2105;Brasileiro Série A;Botafogo;Bahía;1.34;1.18;1;2;mano;0;0
+2020;2020-09-30;2105;Brasileiro Série A;Corinthians;Atlético Goianiense;1.58;0.97;0;0;mancini;0;0
+2020;2020-10-03;2105;Brasileiro Série A;Grêmio;Internacional;1.46;0.87;1;1;coudet;0;0
+2020;2020-10-03;2105;Brasileiro Série A;Palmeiras;Ceará;1.82;0.59;2;1;guto;0;0
+2020;2020-10-03;2105;Brasileiro Série A;Bragantino;Corinthians;1.51;1.17;0;0;coelho;0;0
+2020;2020-10-04;2105;Brasileiro Série A;Botafogo;Fluminense;1.24;1.15;1;1;odair;0;0
+2020;2020-10-04;2105;Brasileiro Série A;Coritiba;São Paulo;0.99;1.29;1;1;diniz;0;0
+2020;2020-10-04;2105;Brasileiro Série A;Flamengo;Atlético Paranaense;1.89;0.58;3;1;barros;0;0
+2020;2020-10-04;2105;Brasileiro Série A;Bahía;Sport Recife;1.56;0.99;1;2;jair;0;0
+2020;2020-10-04;2105;Brasileiro Série A;Goiás;Santos;1.27;1.44;2;3;cuca;0;0
+2020;2020-10-04;2105;Brasileiro Série A;Fortaleza;Atlético Goianiense;1.33;0.87;0;0;mancini;0;0
+2020;2020-10-04;2105;Brasileiro Série A;Atletico Mineiro;Vasco da Gama;1.77;0.95;4;1;ramon;0;0
+2020;2020-10-07;2105;Brasileiro Série A;Corinthians;Santos;1.28;1.11;1;1;cuca;0;0
+2020;2020-10-07;2105;Brasileiro Série A;Flamengo;Sport Recife;2.49;0.5;3;0;jair;0;0
+2020;2020-10-07;2105;Brasileiro Série A;Grêmio;Coritiba;1.9;0.63;2;1;jorginho;0;0
+2020;2020-10-07;2105;Brasileiro Série A;Bahía;Vasco da Gama;1.57;1.07;3;0;ramon;1;0
+2020;2020-10-07;2105;Brasileiro Série A;Goiás;Fluminense;1.32;1.33;2;4;odair;0;0
+2020;2020-10-07;2105;Brasileiro Série A;São Paulo;Atlético Goianiense;1.58;0.68;3;0;mancini;0;0
+2020;2020-10-07;2105;Brasileiro Série A;Fortaleza;Atletico Mineiro;1.11;1.42;2;1;sampaoli;0;0
+2020;2020-10-07;2105;Brasileiro Série A;Botafogo;Palmeiras;1.0;1.51;2;1;luxa;0;0
+2020;2020-10-08;2105;Brasileiro Série A;Atlético Paranaense;Ceará;1.37;0.82;0;0;guto;0;0
+2020;2020-10-08;2105;Brasileiro Série A;Bragantino;Internacional;1.16;1.21;0;2;coudet;0;0
+2020;2020-10-10;2105;Brasileiro Série A;Vasco da Gama;Flamengo;0.98;2.01;1;2;domenec;0;0
+2020;2020-10-10;2105;Brasileiro Série A;Palmeiras;São Paulo;1.4;0.92;0;2;diniz;0;0
+2020;2020-10-10;2105;Brasileiro Série A;Coritiba;Fortaleza;1.11;0.98;0;0;ceni;0;0
+2020;2020-10-10;2105;Brasileiro Série A;Atletico Mineiro;Goiás;2.31;0.96;3;0;moreira;0;0
+2020;2020-10-11;2105;Brasileiro Série A;Fluminense;Bahía;1.44;1.1;1;0;mano;0;0
+2020;2020-10-11;2105;Brasileiro Série A;Santos;Grêmio;1.26;1.2;2;1;renato;0;0
+2020;2020-10-11;2105;Brasileiro Série A;Sport Recife;Botafogo;1.41;1.15;1;2;lazarone;0;0
+2020;2020-10-11;2105;Brasileiro Série A;Atlético Goianiense;Bragantino;1.35;1.15;2;1;barbieri;0;0
+2020;2020-10-11;2105;Brasileiro Série A;Ceará;Corinthians;1.29;0.99;2;1;mancini;0;0
+2020;2020-10-11;2105;Brasileiro Série A;Internacional;Atlético Paranaense;1.28;0.62;2;1;barros;0;0
+2020;2020-10-13;2105;Brasileiro Série A;Flamengo;Goiás;2.81;0.54;2;1;moreira;0;0
+2020;2020-10-14;2105;Brasileiro Série A;Palmeiras;Coritiba;1.77;0.61;1;3;jorginho;0;0
+2020;2020-10-14;2105;Brasileiro Série A;Grêmio;Botafogo;1.81;0.84;3;1;lazarone;0;0
+2020;2020-10-14;2105;Brasileiro Série A;Santos;Atlético Goianiense;1.65;0.84;0;1;bla;0;0
+2020;2020-10-14;2105;Brasileiro Série A;Atlético Paranaense;Corinthians;1.3;0.81;0;1;mancini;0;0
+2020;2020-10-14;2105;Brasileiro Série A;Sport Recife;Internacional;1.04;1.34;3;5;coudet;0;0
+2020;2020-10-14;2105;Brasileiro Série A;Atletico Mineiro;Fluminense;1.84;0.84;1;1;odair;0;0
+2020;2020-10-15;2105;Brasileiro Série A;Flamengo;Bragantino;2.37;0.65;1;1;barbieri;0;0
+2020;2020-10-16;2105;Brasileiro Série A;Goiás;Bahía;1.37;1.49;1;1;mano;0;0
+2020;2020-10-17;2105;Brasileiro Série A;Coritiba;Santos;1.15;1.22;1;2;cuca;0;0
+2020;2020-10-17;2105;Brasileiro Série A;Fluminense;Ceará;1.33;0.97;2;2;guto;0;0
+2020;2020-10-17;2105;Brasileiro Série A;Atlético Goianiense;Atlético Paranaense;1.1;1.03;1;1;barros;1;0
+2020;2020-10-17;2105;Brasileiro Série A;São Paulo;Grêmio;1.41;1.0;0;0;renato;0;0
+2020;2020-10-18;2105;Brasileiro Série A;Corinthians;Flamengo;1.0;1.71;1;5;domenec;0;0
+2020;2020-10-18;2105;Brasileiro Série A;Internacional;Vasco da Gama;1.69;0.74;2;0;graselli;0;0
+2020;2020-10-18;2105;Brasileiro Série A;Bragantino;Sport Recife;1.63;1.06;2;0;jair;0;0
+2020;2020-10-18;2105;Brasileiro Série A;Fortaleza;Palmeiras;1.1;1.1;2;0;andrey;0;0
+2020;2020-10-19;2105;Brasileiro Série A;Bahía;Atletico Mineiro;1.29;1.54;3;1;sampaoli;0;0
+2020;2020-10-19;2105;Brasileiro Série A;Botafogo;Goiás;1.76;1.07;0;0;moreira;0;0
+2020;2020-10-21;2105;Brasileiro Série A;Vasco da Gama;Corinthians;1.29;1.09;1;2;mancini;0;0
+2020;2020-10-24;2105;Brasileiro Série A;Bragantino;Goiás;1.77;0.94;2;0;moreira;0;0
+2020;2020-10-24;2105;Brasileiro Série A;Ceará;Coritiba;1.48;0.89;2;1;jorginho;1;0
+2020;2020-10-24;2105;Brasileiro Série A;Atletico Mineiro;Sport Recife;2.14;0.9;0;0;jair;0;0
+2020;2020-10-25;2105;Brasileiro Série A;Fluminense;Santos;1.23;1.11;3;1;cuca;0;0
+2020;2020-10-25;2105;Brasileiro Série A;Atlético Goianiense;Palmeiras;1.21;1.33;0;3;andrey;0;0
+2020;2020-10-25;2105;Brasileiro Série A;Internacional;Flamengo;1.27;1.43;2;2;domenec;0;0
+2020;2020-10-25;2105;Brasileiro Série A;Atlético Paranaense;Grêmio;1.09;1.11;1;2;renato;0;0
+2020;2020-10-31;2105;Brasileiro Série A;Botafogo;Ceará;1.39;1.09;2;2;guto;0;0
+2020;2020-10-31;2105;Brasileiro Série A;Corinthians;Internacional;1.12;1.29;1;0;coudet;0;0
+2020;2020-10-31;2105;Brasileiro Série A;Coritiba;Atlético Goianiense;1.38;1.04;1;0;souza;0;0
+2020;2020-10-31;2105;Brasileiro Série A;Fortaleza;Fluminense;1.23;0.88;0;1;odair;0;0
+2020;2020-11-01;2105;Brasileiro Série A;Flamengo;São Paulo;1.73;0.91;1;4;diniz;0;0
+2020;2020-11-01;2105;Brasileiro Série A;Sport Recife;Atlético Paranaense;1.09;1.13;1;0;autuori;0;0
+2020;2020-11-01;2105;Brasileiro Série A;Santos;Bahía;1.48;1.04;3;1;mano;0;0
+2020;2020-11-01;2105;Brasileiro Série A;Goiás;Vasco da Gama;1.36;1.31;1;1;sa pinto;0;0
+2020;2020-11-02;2105;Brasileiro Série A;Palmeiras;Atletico Mineiro;1.54;1.27;3;0;sampaoli;0;0
+2020;2020-11-02;2105;Brasileiro Série A;Grêmio;Bragantino;1.69;0.81;2;1;barbieri;0;0
+2020;2020-11-07;2105;Brasileiro Série A;Atlético Paranaense;Fortaleza;1.17;0.62;2;1;ceni;0;0
+2020;2020-11-07;2105;Brasileiro Série A;São Paulo;Goiás;2.02;0.62;2;1;moreira;0;0
+2020;2020-11-07;2105;Brasileiro Série A;Atlético Goianiense;Corinthians;1.27;1.04;1;1;mancini;0;0
+2020;2020-11-08;2105;Brasileiro Série A;Internacional;Coritiba;1.67;0.67;2;2;santana;0;0
+2020;2020-11-08;2105;Brasileiro Série A;Vasco da Gama;Palmeiras;1.14;1.52;0;1;abel;0;0
+2020;2020-11-08;2105;Brasileiro Série A;Atletico Mineiro;Flamengo;1.48;1.82;4;0;domenec;1;0
+2020;2020-11-08;2105;Brasileiro Série A;Bahía;Botafogo;1.58;1.07;1;0;tenius;0;0
+2020;2020-11-08;2105;Brasileiro Série A;Bragantino;Santos;1.35;1.12;1;1;cuca;0;0
+2020;2020-11-08;2105;Brasileiro Série A;Fluminense;Grêmio;1.13;1.25;0;1;renato;0;0
+2020;2020-11-08;2105;Brasileiro Série A;Ceará;Sport Recife;1.57;0.96;0;0;jair;0;0
+2020;2020-11-14;2105;Brasileiro Série A;Santos;Internacional;1.22;1.14;2;0;abelao;0;0
+2020;2020-11-14;2105;Brasileiro Série A;Sport Recife;Vasco da Gama;1.34;1.09;0;2;sa pinto;0;0
+2020;2020-11-14;2105;Brasileiro Série A;Goiás;Atlético Paranaense;1.08;1.29;0;1;autuori;0;0
+2020;2020-11-14;2105;Brasileiro Série A;Corinthians;Atletico Mineiro;1.2;1.47;1;2;sampaoli;0;0
+2020;2020-11-14;2105;Brasileiro Série A;Fortaleza;São Paulo;0.9;1.24;2;3;diniz;0;0
+2020;2020-11-14;2105;Brasileiro Série A;Grêmio;Ceará;1.71;0.74;4;2;guto;0;0
+2020;2020-11-14;2105;Brasileiro Série A;Palmeiras;Fluminense;1.58;0.79;2;0;odair;0;0
+2020;2020-11-14;2105;Brasileiro Série A;Flamengo;Atlético Goianiense;2.38;0.61;1;1;cabo;0;0
+2020;2020-11-16;2105;Brasileiro Série A;Coritiba;Bahía;1.31;1.18;1;2;mano;0;0
+2020;2020-11-16;2105;Brasileiro Série A;Botafogo;Bragantino;1.36;1.08;1;2;barbieri;0;0
+2020;2020-11-18;2105;Brasileiro Série A;Atletico Mineiro;Atlético Paranaense;1.67;0.8;0;2;autuori;0;0
+2020;2020-11-19;2105;Brasileiro Série A;Vasco da Gama;Fortaleza;1.26;1.0;0;0;chamusca;0;0
+2020;2020-11-20;2105;Brasileiro Série A;Bragantino;Bahía;1.48;1.06;4;0;mano;0;0
+2020;2020-11-21;2105;Brasileiro Série A;Atlético Paranaense;Santos;1.26;0.85;1;0;cuca;0;0
+2020;2020-11-21;2105;Brasileiro Série A;Flamengo;Coritiba;2.42;0.6;3;1;santana;0;0
+2020;2020-11-21;2105;Brasileiro Série A;Goiás;Palmeiras;1.03;1.7;1;0;abel;0;0
+2020;2020-11-22;2105;Brasileiro Série A;Ceará;Atletico Mineiro;1.28;1.5;2;2;sampaoli;0;0
+2020;2020-11-22;2105;Brasileiro Série A;São Paulo;Vasco da Gama;1.82;0.6;1;1;sa pinto;0;0
+2020;2020-11-22;2105;Brasileiro Série A;Botafogo;Fortaleza;1.28;1.0;1;2;chamusca;0;0
+2020;2020-11-22;2105;Brasileiro Série A;Internacional;Fluminense;1.47;0.76;1;2;odair;0;0
+2020;2020-11-22;2105;Brasileiro Série A;Corinthians;Grêmio;1.1;1.4;0;0;renato;0;0
+2020;2020-11-23;2105;Brasileiro Série A;Sport Recife;Atlético Goianiense;1.26;1.08;0;1;cabo;0;0
+2020;2020-11-25;2105;Brasileiro Série A;Ceará;São Paulo;1.06;1.4;1;1;diniz;0;0
+2020;2020-11-25;2105;Brasileiro Série A;Coritiba;Corinthians;1.24;1.09;0;1;mancini;0;0
+2020;2020-11-25;2105;Brasileiro Série A;Atletico Mineiro;Botafogo;1.95;0.93;2;1;diaz;1;0
+2020;2020-11-26;2105;Brasileiro Série A;Fortaleza;Goiás;1.53;0.81;1;1;cesar;0;0
+2020;2020-11-28;2105;Brasileiro Série A;Santos;Sport Recife;1.6;0.8;4;2;jair;0;0
+2020;2020-11-28;2105;Brasileiro Série A;Palmeiras;Atlético Paranaense;1.33;0.74;3;0;autuori;0;0
+2020;2020-11-28;2105;Brasileiro Série A;Bahía;São Paulo;1.09;1.46;1;3;diniz;0;0
+2020;2020-11-28;2105;Brasileiro Série A;Atlético Goianiense;Internacional;1.11;1.17;0;0;abelao;0;0
+2020;2020-11-30;2105;Brasileiro Série A;Grêmio;Goiás;2.04;0.66;2;1;cesar;0;0
+2020;2020-11-30;2105;Brasileiro Série A;Vasco da Gama;Ceará;1.36;1.11;1;4;guto;0;0
+2020;2020-11-30;2105;Brasileiro Série A;Fluminense;Bragantino;1.29;0.99;0;0;barbieri;0;0
+2020;2020-12-02;2105;Brasileiro Série A;Fortaleza;Corinthians;1.24;0.86;0;0;mancini;0;0
+2020;2020-12-03;2105;Brasileiro Série A;Goiás;São Paulo;0.93;1.75;0;3;diniz;0;0
+2020;2020-12-05;2105;Brasileiro Série A;Santos;Palmeiras;1.16;1.31;2;2;abel;0;0
+2020;2020-12-05;2105;Brasileiro Série A;Botafogo;Flamengo;1.12;2.07;0;1;ceni;0;0
+2020;2020-12-05;2105;Brasileiro Série A;Fluminense;Atlético Paranaense;1.11;0.83;3;1;autuori;0;0
+2020;2020-12-05;2105;Brasileiro Série A;Bahía;Ceará;1.52;1.23;0;2;guto;0;0
+2020;2020-12-05;2105;Brasileiro Série A;Coritiba;Bragantino;1.16;1.21;0;0;barbieri;0;0
+2020;2020-12-06;2105;Brasileiro Série A;Grêmio;Vasco da Gama;1.88;0.71;4;0;sa pinto;0;0
+2020;2020-12-06;2105;Brasileiro Série A;São Paulo;Sport Recife;2.08;0.53;1;0;jair;0;0
+2020;2020-12-06;2105;Brasileiro Série A;Atletico Mineiro;Internacional;1.54;1.02;2;2;abelao;0;0
